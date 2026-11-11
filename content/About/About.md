@@ -2,6 +2,8 @@ This website is a personal collection of learning journals, reflections, and exp
 
 The content is intended to document my learning process rather than serve as a rigorous or authoritative academic resource.
 
+The website is still under development. Some sections may be incomplete, and content will be updated and expanded over time.
+
 ## Accuracy and Limitations
 
 These notes reflect my understanding. Errors, incomplete arguments, informal explanations, or mathematical inaccuracies are inevitable.
