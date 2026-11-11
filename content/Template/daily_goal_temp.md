@@ -1,5 +1,5 @@
 ---
-title: Date
+title: Study Journal
 ---
 
 # Summary
