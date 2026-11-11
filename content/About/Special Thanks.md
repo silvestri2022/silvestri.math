@@ -1,4 +1,4 @@
-I would like to express my gratitude to the people who have supported, encouraged, and inspired me throughout my journey.
+I would like to express my gratitude to all those who have supported, encouraged, and inspired me throughout my journey.
 
 This list is by no means exhaustive, and I am grateful to many others who have supported me along the way.
 
@@ -8,6 +8,6 @@ Special thanks to Dai M. and his partner Ceren, who offered me invaluable encour
 
 Special thanks to my family, especially my parents, for giving me the opportunity to pursue my education.
 
-I would also like to thank Jack B., David(Yingdong) S. and Jordan for their support and encouragement along the way.
+I would also like to thank Jack B., David (Yingdong) S. and Jordan for their support and encouragement along the way.
 
-Also thanks to Isaac, with love.
+Also thanks to Isaac and 鹴, with love.
