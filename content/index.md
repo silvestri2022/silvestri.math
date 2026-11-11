@@ -2,5 +2,5 @@
 title: Silvestri R. Liu
 ---
 
-University of Toronto, Mathematics and physics.
+University of Toronto. Mathematics and Physics.
 Sit with the discomfort of not knowing. Spend more time. Be patient. 
