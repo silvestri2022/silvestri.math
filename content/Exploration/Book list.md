@@ -1,1 +1,1 @@
-- Sue Fletcher-Watson and Francesca Happ, *Autism: A New Introduction to Psychological Theory and Current Debate*, 2nd, 2019
+- Sue Fletcher-Watson and Francesca Happ, *Autism: A New Introduction to Psychological Theory and Current Debate*, 2nd ed., 2019
