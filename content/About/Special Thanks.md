@@ -1,3 +1,4 @@
-I would also like to express my gratitude to the people who have supported, encouraged, and inspired me throughout my learning journey.
+I would like to express my gratitude to the people who have supported, encouraged, and inspired me throughout my learning journey.
 
-Special thanks to [Name] for their encouragement, patience, and support.
+Special thanks to Jorge C., my MAT137 instructor, who guided me into the world of mathematics, and has continued to inspire me.
+
