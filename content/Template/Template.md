@@ -8,4 +8,4 @@ title: Date
 
 # Unsolved Questions
 
-# Questions for Tomorrow
+# The Next Day
