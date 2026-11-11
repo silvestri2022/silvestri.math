@@ -8,6 +8,6 @@ Special thanks to Dai M. and his partner Ceren, who offered me invaluable encour
 
 Special thanks to my family, especially my parents, for giving me the opportunity to pursue my education.
 
-I would also like to thank Jack B., David (Yingdong) S. and Jordan for their support and encouragement along the way.
+I would also like to thank Jack B., David (Yingdong) S., and Jordan for their support and encouragement along the way.
 
 Also thanks to Isaac and 鹴, with love.
