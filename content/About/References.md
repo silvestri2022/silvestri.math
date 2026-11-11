@@ -1,5 +1,3 @@
-# References
-
 This page lists some of the primary academic resources that have informed the material on this website.
 
 It is not intended to be an exhaustive bibliography.
