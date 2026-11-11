@@ -1,0 +1,15 @@
+
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Publish to Website",
+      "type": "shell",
+      "command": "git add -A -- content && if git diff --cached --quiet; then echo 'No content changes to publish'; else git commit -m \"Publish content $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin v5; fi",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
