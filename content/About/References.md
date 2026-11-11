@@ -13,7 +13,7 @@ It is not intended to be an exhaustive bibliography.
 
 ## Textbooks
 
-- Péter Komjáth and V. Totik, *Problems and theorems in classical set theory*, Edition, Springer, 2006.
+- Péter Komjáth and V. Totik, *Problems and theorems in classical set theory*, Springer, 2006.
 
 ## Other Resources
 
