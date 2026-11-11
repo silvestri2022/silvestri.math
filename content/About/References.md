@@ -14,6 +14,8 @@ It is not intended to be an exhaustive bibliography.
 ## Textbooks
 
 - Péter Komjáth and V. Totik, *Problems and theorems in classical set theory*, Springer, 2006.
+- Thomas J. Jech, *Set theory*, Academic Press, 1978.
+- Karel Hrbacek and Thomas Jech, *Introduction to set theory*, 3rd ed., 1999.
 
 ## Other Resources
 
