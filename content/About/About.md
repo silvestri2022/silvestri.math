@@ -28,9 +28,7 @@ This list is not necessarily exhaustive and may not be regularly updated to refl
 
 ## Feedback and Corrections
 
-Corrections, suggestions, and constructive feedback are welcome.
-
-If you notice an error or have a question about the content, please contact me at:
+Corrections, suggestions, and constructive feedback are welcome, please contact me at:
 
 **silvestri.liu@gmail.com**
 
