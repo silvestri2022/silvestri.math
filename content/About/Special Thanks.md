@@ -6,4 +6,6 @@ Special thanks to Jorge C., my MAT137 instructor, who guided me into the world o
 
 Special thanks to Dai M. and his partner Ceren, who gave me countless peer support along the way of math studying.
 
+Special thanks to my family, especially my parents, for providing the opportunity of education.
+
 Also thanks to Isaac, with love.
