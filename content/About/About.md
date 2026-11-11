@@ -1,5 +1,3 @@
-# About This Website
-
 This website is a personal collection of learning journals, reflections, and explorations, primarily in mathematics, physics, neuroscience and astronomy.
 
 The content is intended to document my learning process rather than serve as a rigorous or authoritative academic resource.
