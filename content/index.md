@@ -1,5 +1,5 @@
 ---
-title: Silvestri R. Liu, University of Toronto
+title: Silvestri R. Liu
 ---
 
-Mathematics and physics.
+University of Toronto, Mathematics and physics.
