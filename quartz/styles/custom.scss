@@ -1,3 +1,18 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.status-finished {
+  color: #237a45;
+  background: #e5f5e9;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.status-unfinished {
+  color: #b42318;
+  background: #fde8e7;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-weight: 600;
+}
