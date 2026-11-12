@@ -1,5 +1,3 @@
-Gratitude for the past, motivation for the future.
----
 I would like to express my gratitude to all those who have supported, encouraged, and inspired me throughout my journey.
 
 This list is by no means exhaustive, and I am grateful to many others who have supported me along the way.
