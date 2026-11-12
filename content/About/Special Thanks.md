@@ -10,4 +10,4 @@ Special thanks to my family, especially my parents, for giving me the opportunit
 
 I would also like to thank Jack B., David (Yingdong) S., and Jordan for their support and encouragement along the way.
 
-Also, thanks to Isaac, with love.
+Also, thanks to Isaac, with love. 💞
