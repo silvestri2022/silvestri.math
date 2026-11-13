@@ -26,4 +26,9 @@ It is not intended to be an exhaustive bibliography.
 
 ## Other Resources
 
+### German Study
+Applications:
+- Lingvist
+- Lingard
+
 Additional references may be provided within individual entries.
