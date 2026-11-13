@@ -1,1 +1,2 @@
 - Lie Theory
+- Galois Theory
