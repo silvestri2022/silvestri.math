@@ -13,9 +13,16 @@ It is not intended to be an exhaustive bibliography.
 
 ## Textbooks
 
+### Set Theory
 - Péter Komjáth and V. Totik, *Problems and theorems in classical set theory*, Springer, 2006.
 - Thomas J. Jech, *Set theory*, Academic Press, 1978.
 - Karel Hrbacek and Thomas Jech, *Introduction to set theory*, 3rd ed., 1999.
+
+### Algebraic Geometry
+- Miles Reid, *Undergraduate Algebraic Geometry*, 2013.
+
+### Analysis
+- James R. Munkres, *Analysis on Manifolds*, CRC Press, 2018.
 
 ## Other Resources
 
