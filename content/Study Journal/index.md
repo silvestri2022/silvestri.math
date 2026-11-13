@@ -10,7 +10,7 @@ Short term goals and commitments in progress will be posted on this page, moved 
 Commitment - MAT257 study and review:\
 11-14 to 11-22, review 1.5h, study new contents 40min.
 
-11-14\
+11-14: chain rule(second derivative, implicit function), submanifolds\
 11-15\
 11-16\
 11-17\
