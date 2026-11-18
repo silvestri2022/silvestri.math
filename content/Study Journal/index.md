@@ -12,6 +12,6 @@ Commitment - MAT257 study and review:\
 
 <span class="status-unfinished">Missed</span> (break, tasks move to 11-15) 11-14: chain rule(second derivative, implicit function), impFT practice, submanifolds\
 <span class="status-unfinished">Missed</span> 11-15\
-11-16\
-11-17\
+<span class="status-unfinished">Missed</span> 11-16\
+<span class="status-unfinished">40min</span> 11-17\
 11-18
