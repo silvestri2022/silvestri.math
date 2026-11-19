@@ -1,1 +1,3 @@
-2026-11-18 gym 40min
+| Date | Workout | Duration | 
+|---|---|---|
+| Day 1 | 2026-11-18 | - | 
