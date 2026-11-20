@@ -9,7 +9,7 @@ Short term goals and commitments in progress will be posted on this page, moved 
 
 Commitment - MAT257 study and review:\
 11-14 to 11-22, review 1.5h, study new contents 40min.
-<span class="status-question">Edited(11-20)</span>: 2h on MAT257 on weekdays (Friday excluded), 3h on MAT257 on Weekends (Friday included). Effective dates: 11-20 to 11-29.
+<span class="status-question">Edited(11-20)</span>: 2h on MAT257 on weekdays, 3h on MAT257 on Weekends. Effective dates: 11-20 to 11-29.
 
 <span class="status-unfinished">Missed</span> (break, tasks move to 11-15) 11-14: chain rule(second derivative, implicit function), impFT practice, submanifolds\
 <span class="status-unfinished">Missed</span> 11-15\
