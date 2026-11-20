@@ -17,7 +17,7 @@ Commitment - MAT257 study and review:\
 <span class="status-unfinished">40min</span> 11-17\
 <span class="status-finished">Finished</span> 11-18\
 <span class="status-unfinished">Missed</span> 11-19\
-<span class="status-unfinished">Unfinished</span> 11-20
+<span class="status-question">106min assign the rest to 11-21</span> 11-20
 
 DDL: MAT257 HW5\
 Week (11-16 to 11-22): Q1,2,4,7\
