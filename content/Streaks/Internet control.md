@@ -1,4 +1,4 @@
-Rules:  Laptop only used for code and university website before 8.30pm, other devices with screentime control on. 
+Rules:  Laptop only used for code, university websites, and personal website before 8.30pm, other devices with screentime control on. 
 
 | Streaks | Date | Notes | 
 |---|---|---|
