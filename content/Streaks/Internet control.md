@@ -8,4 +8,4 @@ Record and justify every change made.
 | Day 2 | 2026-11-19 | - |
 | Day 3 | 2026-11-20 | - |
 | Day 4 | 2026-11-21 | unlocked without caution, disturb the plan. |
-| Day 5 | 2026-11-22 | Unlock for 10min, troubleshooting purpose (check the reason why zotero is not usable). |
+| Day 5 | 2026-11-22 | Unlock for 10min, for troubleshooting purpose (check the reason why zotero is not usable). |
