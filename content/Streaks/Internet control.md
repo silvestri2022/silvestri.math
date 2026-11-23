@@ -10,4 +10,4 @@ Record and justify every change made.
 | Day 4 | 2026-11-21 | unlocked without caution, disturb the plan. <span class="status-unfinished">Abuse</span> |
 | Day 5 | 2026-11-22 | <span class="status-finished">Controlled</span> Unlock for 10min, for troubleshooting purpose (check the reason why zotero is not usable). |
 | - | 2026-11-22 | Afternoon unlock for works, re-block at 5pm. |
-| Day 6 | 2026-11-23 | - |
+| Day 6 | 2026-11-23 | Temporarily add vocabu into allowed list. |
