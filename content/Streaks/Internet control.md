@@ -2,7 +2,7 @@ Rules:  Laptop only used for code, university websites, and personal website bef
 
 Update (2026-11-25): Record and justify every change made. 
 
-Update (2026-11-25): Turn on iphone only when 80% tasks with study journal are finished. Or justified use.
+Update (2026-11-25): Turn on iphone only when 80% tasks **with study journal** are finished. Or justified use.
 
 | Streaks | Date | Notes | 
 |---|---|---|
