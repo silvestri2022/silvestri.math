@@ -1,6 +1,8 @@
 Rules:  Laptop only used for code, university websites, and personal website before 8.30pm, other devices with screentime control on. 
 
-Record and justify every change made.
+Update (2026-11-25): Record and justify every change made. 
+
+Update (2026-11-25): Turn on iphone only when 80% tasks with study journal are finished.
 
 | Streaks | Date | Notes | 
 |---|---|---|
@@ -11,3 +13,5 @@ Record and justify every change made.
 | Day 5 | 2026-11-22 | <span class="status-finished">Controlled</span> Unlock for 10min, for troubleshooting purpose (check the reason why zotero is not usable). |
 | - | 2026-11-22 | Afternoon unlock for works, re-block at 5pm. |
 | Day 6 | 2026-11-23 | Temporarily add vocabu into allowed list. |
+| Day 7 | 2026-11-24 | Basically follow the rules, but without justifying the unlock. |
+| Day 8 | 2026-11-25 | - |
